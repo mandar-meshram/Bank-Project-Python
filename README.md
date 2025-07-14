@@ -1,3 +1,20 @@
-# Bank-Project
+Banking System Simulation
+A Python-based banking application demonstrating core OOP principles with account management, transactions, and user authentication.
 
-This is my project which essentially works as an ATM. Here, you can check your balance by first verifying your pin number. You can deposit or withdraw amount, just like at an ATM. This project is done using python and concepts such as class and inheritance.
+Key Features
+🏦 Account Management: Create/delete accounts with unique IDs
+
+💰 Transactions: Deposit/withdraw funds with balance tracking
+
+📜 Transaction History: Log all financial operations
+
+🔐 Basic Authentication: Secure account access
+
+Tech Stack
+Language: Python
+
+Paradigm: Object-Oriented Programming (OOP)
+
+Data Handling: File I/O (JSON/CSV)
+
+Tools: Jupyter Notebook
